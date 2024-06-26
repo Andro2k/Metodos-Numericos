@@ -6,7 +6,7 @@
 
 ### 🧩 Unidad 1
 
-- **[Tarea 01](/Tarea_01.ipynb)** Ejercicios Unidad 01- A  
+- **[Tarea 01](Tareas/Tarea_01.ipynb)** Ejercicios Unidad 01- A  
   📅 *Entrega:* Jueves, 9 de mayo de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
@@ -14,23 +14,23 @@
   📅 *Entrega:* Domingo, 26 de mayo de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 03](/Tarea_03.ipynb)** Ejercicios Unidad 01-B  
+- **[Tarea 03](Tareas/Tarea_03.ipynb)** Ejercicios Unidad 01-B  
   📅 *Entrega:* Martes, 21 de mayo de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 04](/Tarea_04.ipynb)** Ejercicios Unidad 02-A | Bisección  
+- **[Tarea 04](Tareas/Tarea_04.ipynb)** Ejercicios Unidad 02-A | Bisección  
   📅 *Entrega:* Lunes, 27 de mayo de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 05](/Tarea_05.ipynb)** Ejercicios Unidad 02-B Método de Newton y de la Secante  
+- **[Tarea 05](Tareas/Tarea_05.ipynb)** Ejercicios Unidad 02-B Método de Newton y de la Secante  
   📅 *Entrega:* Lunes, 10 de junio de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 06](/Tarea_06.ipynb)** Unidad 03-A | Serie de Taylor y Polinomios de Lagrange  
+- **[Tarea 06](Tareas/Tarea_06.ipynb)** Unidad 03-A | Serie de Taylor y Polinomios de Lagrange  
   📅 *Entrega:* Viernes, 14 de junio de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 07](/Tarea_07.ipynb)** Unidad 03-B | Splines cúbicos  
+- **[Tarea 07](Tareas/Tarea_07.ipynb)** Unidad 03-B | Splines cúbicos  
   📅 *Entrega:* Sábado, 15 de junio de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
