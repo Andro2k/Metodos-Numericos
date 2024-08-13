@@ -34,7 +34,23 @@
   📅 *Entrega:* Sábado, 15 de junio de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 08]()** Ejercicios Unidad 03-C mínimos cuadrados  
+- **[Tarea 08](Tareas/Tarea_08.ipynb)** Ejercicios Unidad 03-C mínimos cuadrados  
+  📅 *Entrega:* Martes, 9 de julio de 2024, 21:59  
+  📬 *Estado:* Sin entrega
+
+- **[Tarea 09](Tarea_09.ipynb)** Unidad 03-B | Splines cúbicos  
+  📅 *Entrega:* Sábado, 15 de junio de 2024, 21:59  
+  📬 *Estado:* Enviado para calificar
+
+- **[Tarea 10](Tarea_10.ipynb)** Ejercicios Unidad 03-C mínimos cuadrados  
+  📅 *Entrega:* Martes, 9 de julio de 2024, 21:59  
+  📬 *Estado:* Sin entrega
+  
+- **[Tarea 11](Tarea_11.ipynb)** Unidad 03-B | Splines cúbicos  
+  📅 *Entrega:* Sábado, 15 de junio de 2024, 21:59  
+  📬 *Estado:* Enviado para calificar
+
+- **[Tarea 12](Tarea_12.ipynb)** Ejercicios Unidad 03-C mínimos cuadrados  
   📅 *Entrega:* Martes, 9 de julio de 2024, 21:59  
   📬 *Estado:* Sin entrega
 
