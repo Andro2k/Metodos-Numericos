@@ -38,24 +38,39 @@
   📅 *Entrega:* Martes, 9 de julio de 2024, 21:59  
   📬 *Estado:* Sin entrega
 
-- **[Tarea 09](Tarea_09.ipynb)** Unidad 03-B | Splines cúbicos  
+- **[Tarea 09](Tareas/Tarea_09.ipynb)** Unidad 03-B | Splines cúbicos  
   📅 *Entrega:* Sábado, 15 de junio de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 10](Tarea_10.ipynb)** Ejercicios Unidad 03-C mínimos cuadrados  
+- **[Tarea 10](Tareas/Tarea_10.ipynb)** Ejercicios Unidad 03-C mínimos cuadrados  
   📅 *Entrega:* Martes, 9 de julio de 2024, 21:59  
   📬 *Estado:* Sin entrega
   
-- **[Tarea 11](Tarea_11.ipynb)** Unidad 03-B | Splines cúbicos  
+- **[Tarea 11](Tareas/Tarea_11.ipynb)** Unidad 03-B | Splines cúbicos  
   📅 *Entrega:* Sábado, 15 de junio de 2024, 21:59  
   📬 *Estado:* Enviado para calificar
 
-- **[Tarea 12](Tarea_12.ipynb)** Ejercicios Unidad 03-C mínimos cuadrados  
+- **[Tarea 12](Tareas/Tarea_12.ipynb)** Ejercicios Unidad 03-C mínimos cuadrados  
   📅 *Entrega:* Martes, 9 de julio de 2024, 21:59  
   📬 *Estado:* Sin entrega
 
 ### 📚 Evaluaciones y Proyectos
 - **[Proyecto 01](https://github.com/Andro2k/Proyecto-Metodos-Numericos)**  
+  📅 *Entrega:* Miércoles, 19 de junio de 2024, 06:59  
+  📬 *Estado:* Enviado para calificar
+- **[Proyecto 02](https://github.com/Andro2k/MetodosNumericos_Proyecto-2)**  
+  📅 *Entrega:* Miércoles, 19 de junio de 2024, 06:59  
+  📬 *Estado:* Enviado para calificar
+- **[Prueba 01]()**  
+  📅 *Entrega:* Miércoles, 19 de junio de 2024, 06:59  
+  📬 *Estado:* Enviado para calificar
+- **[Prueba 02](Pruebas%20y%20Examenes/Prueba_2_Andino.ipynb)**  
+  📅 *Entrega:* Miércoles, 19 de junio
+  📬 *Estado:* Enviado para calificar
+- **[Examen 01](https://github.com/Andro2k/Proyecto-Metodos-Numericos)**  
+  📅 *Entrega:* Miércoles, 19 de junio de 2024, 06:59  
+  📬 *Estado:* Enviado para calificar
+- **[Examen 02](Pruebas%20y%20Examenes/Examen2.ipynb)**  
   📅 *Entrega:* Miércoles, 19 de junio de 2024, 06:59  
   📬 *Estado:* Enviado para calificar
 
